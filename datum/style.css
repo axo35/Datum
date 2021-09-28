@@ -1,0 +1,14 @@
+body{ 
+    background-color: skyblue;
+    height:100vh;
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+    text-align: center;
+    margin:0;
+    border: 15px solid black;
+    border: 1px solid blue;
+    border-radius: 3px;
+}
+
